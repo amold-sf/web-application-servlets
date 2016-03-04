@@ -7,7 +7,7 @@
 <title>Welcome!</title>
 </head>
 <body>
-	<p>Welcome to the main page!!!!</p>
+	<p>Welcome to the main page!!!</p>
 	<p>${username}</p> 
 </body>
 </html>
